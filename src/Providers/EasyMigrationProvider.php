@@ -1,6 +1,6 @@
 <?php
 
-namespace Easymigration\Src\Providers;
+namespace Agunbuhori\EasyMigration\Providers;
 
 use Agunbuhori\EasyMigration\Builders\EasySchemaBuilder;
 use Illuminate\Support\Facades\Schema;
