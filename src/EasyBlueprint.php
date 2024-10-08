@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * Laravel Easy Migration by Agun Buhori <agun@buhori.com>
+ */
 namespace Agunbuhori\EasyMigration;
 
 use Agunbuhori\EasyMigration\Contracts\EasyBlueprintContract;
