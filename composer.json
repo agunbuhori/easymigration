@@ -1,0 +1,14 @@
+{
+    "name": "agunbuhori/easymigration",
+    "autoload": {
+        "psr-4": {
+            "Agunbuhori\\EasyMigration\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Agun Buhori",
+            "email": "agun@buhori.com"
+        }
+    ]
+}
